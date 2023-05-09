@@ -16,6 +16,8 @@
 
 ### Minhas redes abaixo!
 
-  <div> 
-    <a href="[https://www.linkedin.com/in/thiagoleam](https://linktr.ee/heroleam)" target="_blank">linktr.ee</a>
+  <div>
+    <a href="[https://www.exemplo.com](https://linktr.ee/heroleam)">
+      <button type="button">Linktr.ee</button>
+    </a>
   </div>
