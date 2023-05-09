@@ -17,7 +17,7 @@
 ### Minhas redes abaixo!
 
   <div>
-    <a href="[https://www.exemplo.com](https://linktr.ee/heroleam)">
+    <a href="https://linktr.ee/heroleam">
       <button type="button">Linktr.ee</button>
     </a>
   </div>
