@@ -17,7 +17,7 @@
 ### Minhas redes abaixo!
 
   <div>
-    <a href="https://linktr.ee/heroleam">
-      <button type="button">Linktr.ee</button>
+    <a href="heroleam.github.io/herofield/contato">
+      <button type="button">Contatos</button>
     </a>
   </div>
