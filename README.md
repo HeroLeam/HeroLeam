@@ -16,10 +16,4 @@
 
 ### Minhas redes abaixo!
 
-  <div>
-    <a href="https://heroleam.github.io/herofield/contato.html">
-      <button type="button">Contatos</button>
-    </a>
-  </div>
-
-  [Contatos](https://heroleam.github.io/herofield/contato.html){:onclick="window.open(this.href,'_blank');return false;"}
+<a href="https://heroleam.github.io/herofield/contato.html" target="_blank">Contatos</a>
