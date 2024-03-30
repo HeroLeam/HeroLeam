@@ -21,5 +21,3 @@
       <button type="button">Contatos</button>
     </a>
   </div>
-
-  [Contatos](https://heroleam.github.io/herofield/contato.html){:target="_blank"}
