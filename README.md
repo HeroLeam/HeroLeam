@@ -17,7 +17,7 @@
 ### Minhas redes abaixo!
 
   <div>
-    <a href="heroleam.github.io/herofield/contato">
+    <a href="heroleam.github.io/herofield/contato.html">
       <button type="button">Contatos</button>
     </a>
   </div>
