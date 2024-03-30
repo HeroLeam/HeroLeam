@@ -21,3 +21,5 @@
       <button type="button">Contatos</button>
     </a>
   </div>
+
+  [go](http://stackoverflow.com){:target="_blank"}
