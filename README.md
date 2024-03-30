@@ -22,4 +22,4 @@
     </a>
   </div>
 
-  [go](http://stackoverflow.com){:target="_blank"}
+  [Abrir em nova janela](url_do_link){:target="_blank"}
