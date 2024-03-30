@@ -22,4 +22,4 @@
     </a>
   </div>
 
-  [Abrir em nova janela](url_do_link){:target="_blank"}
+  [Contatos](https://heroleam.github.io/herofield/contato.html){:target="_blank"}
